@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "nombre": "Espresso",
+    "categoria": "Bebidas",
+    "precio": 35,
+    "stock": 12
+  },
+
+  {
+    "id": 2,
+    "nombre": "Café & Postres Combo",
+    "categoria": "Combos",
+    "precio": 60,
+    "stock": 3
+  },
+
+  {
+    "id": 3,
+    "nombre": "Latte de vainilla",
+    "categoria": "Bebidas",
+    "precio": 48,
+    "stock": 2
+  },
+
+
+  {
+    "id": 4,
+    "nombre": "Muffin de arándano",
+    "categoria": "Panadería",
+    "precio": 30,
+    "stock": 4
+  },
+
+  {
+    "id": 5,
+    "nombre": "Cold brew",
+    "categoria": "Bebidas",
+    "precio": 52,
+    "stock": 8
+  }
+]
+ 

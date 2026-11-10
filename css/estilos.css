@@ -1,0 +1,15 @@
+* { box-sizing: border-box; font-family: Arial, sans-serif; }
+
+body { max-width: 640px; margin: 32px auto; padding: 0 16px; color: #1f1c17; }
+
+h1 { font-size: 22px; margin-bottom: 8px; }
+
+table { width: 100%; border-collapse: collapse; margin-top: 16px; }
+
+th, td { border: 1px solid #ddd; padding: 8px 10px; text-align: left; }
+
+th { background: #5a3825; color: white; }
+
+tr.stock-bajo td { background: #fbe4e2; color: #7a1e17; font-weight: bold; }
+
+#mensaje { color: #b3261e; margin-top: 12px; }
