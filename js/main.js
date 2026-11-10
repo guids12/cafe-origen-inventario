@@ -32,6 +32,7 @@ fetch('inventario.json')
       `;
       tbody.appendChild(tr);
     });
+    document.getElementById('mensaje').textContent = `${productos.length} productos en inventario`;
   })
   .catch((err) => {
     document.getElementById('mensaje').textContent = 'Error: ' + err.message;
